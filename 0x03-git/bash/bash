@@ -1,0 +1,10 @@
+#!/bin/bash
+<<<<<<< HEAD
+
+...contents of the main branch...
+
+=======
+
+...contents of the update_script branch...
+
+>>>>>>> update_script
